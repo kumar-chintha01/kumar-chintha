@@ -1,0 +1,18 @@
+[
+  {
+    "title": "currency convetor",
+    "imageSrc": "projects/project.png",
+    "description": "In my Currency Converter project, I created an application that converts amounts between the different countries currency.",
+    "skills": ["java","AWT","javaswing"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kumar-chintha01/Projects/tree/main/Currency%20converter"
+  },
+  {
+    "title": "Music-APP",
+    "imageSrc": "projects/project.png",
+    "description": "i dvelop a project with help of these react,node.js,i build a mood-music-app which plays releted to our mood",
+    "skills": ["React", "Express", "Node", "Sass","django"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kumar-chintha01/music-app"
+  }
+]
